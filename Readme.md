@@ -1,3 +1,28 @@
+Soubhagya Comments
+
+#Implimenetaion Approach
+
+Technolgy stack:
+
+Front End:
+
+1)Jquery data table,HTML,Jquery
+
+Backend:
+1)C#,In memory DB,
+
+#Implimenetaion Approach
+
+1)I have covered all the points based on below requirements
+2)I have used Jquery data table for display of data it is beacause it will provide flexible of sorting and filter and pagination.
+3)I have implimented validation on every field
+
+#Things to improve
+
+1)In the "add new pet" section validation can still be made better.(numeric validation etc)
+2)showing alert can be improved in some areas
+3)error logging  can still be aded in our approach
+
 # PetsAlone Technical Assesment
 
 Picture the scene…you’ve tuned into your favourite show on Netflix ready to relax for the evening…and the phone rings…
